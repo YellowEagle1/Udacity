@@ -19,6 +19,7 @@ The official website for each prerequisite has installation instructions, please
 
 ### Contract Details
 ERC-721 Token Name: StarNotaryV2
+
 ERC-721 Token Symbol: SN2
 
 ## How to run the application
